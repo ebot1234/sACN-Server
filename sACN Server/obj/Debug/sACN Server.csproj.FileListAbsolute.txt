@@ -1,0 +1,7 @@
+C:\Users\ellen.estep.one\source\repos\sACN Server\sACN Server\obj\Debug\sACN Server.csprojAssemblyReference.cache
+C:\Users\ellen.estep.one\source\repos\sACN Server\sACN Server\obj\Debug\sACN Server.csproj.CoreCompileInputs.cache
+C:\Users\ellen.estep.one\source\repos\sACN Server\sACN Server\bin\Debug\sACN Server.exe.config
+C:\Users\ellen.estep.one\source\repos\sACN Server\sACN Server\bin\Debug\sACN Server.exe
+C:\Users\ellen.estep.one\source\repos\sACN Server\sACN Server\bin\Debug\sACN Server.pdb
+C:\Users\ellen.estep.one\source\repos\sACN Server\sACN Server\obj\Debug\sACN Server.exe
+C:\Users\ellen.estep.one\source\repos\sACN Server\sACN Server\obj\Debug\sACN Server.pdb
